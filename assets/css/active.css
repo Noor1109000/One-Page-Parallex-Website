@@ -1,0 +1,107 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+max-width: 100%;
+}
+a{
+text-decoration: none;
+}
+li{
+list-style: none;
+}
+
+#navigation a:hover {
+    border-bottom: 2px solid hsl(95, 64%, 53%);
+    padding-bottom: 15px;
+	
+}
+
+li a:hover{
+text-decoration: none;
+}
+.service_icon-box i:hover {
+    background: #57d939 none repeat scroll 0 0;
+    color: white;
+}
+.img-holder > img:hover {
+  border-bottom: 4px solid #63e544;
+}
+
+button.btnSend:hover {
+  background: #63e544 none repeat scroll 0 0;
+  color: white;
+}
+
+.caption:hover div.team-item-01{
+background: red;
+}
+
+.owl-nav:hover .owl-next, .owl-nav:hover .owl-prev {
+ border: 2px solid rgba(255, 255, 255, 0.77);
+
+
+}
+
+.owl-nav:hover .fa.fa-chevron-left, .owl-nav:hover .fa.fa-chevron-right{
+color: white;
+}
+
+
+.portfolio-item-01:hover .portfolio-content-01{
+visibility: visible;
+}
+
+.portfolio-item-02:hover .portfolio-content-02{
+visibility: visible;
+}
+
+.portfolio-item-03:hover .portfolio-content-03{
+visibility: visible;
+}
+
+.portfolio-item-04:hover .portfolio-content-04{
+visibility: visible;
+}
+
+.portfolio-item-05:hover .portfolio-content-05{
+visibility: visible;
+}
+
+.portfolio-item-06:hover .portfolio-content-06{
+visibility: visible;
+}
+
+.portfolio-item-07:hover .portfolio-content-07{
+visibility: visible;
+}
+
+.portfolio-item-08:hover .portfolio-content-08{
+visibility: visible;
+}
+.space-5{height: 5px;}
+.space-10{height: 10px;}
+.space-15{height: 15px;}
+.space-20{height: 20px;}
+.space-25{height: 25px;}
+.space-30{height: 30px;}
+.space-35{height: 35px;}
+.space-40{height: 40px;}
+.space-45{height: 45px;}
+.space-50{height: 50px;}
+.space-55{height: 55px;}
+.space-60{height: 60px;}
+.space-65{height: 65px;}
+.space-70{height: 70px;}
+.space-75{height: 75px;}
+.space-80{height: 80px;}
+.space-85{height: 85px;}
+.space-90{height: 90px;}
+.space-110{height: 110px;}
+.space-120{height: 120px;}
+.space-130{height: 130px;}
+.space-140{height: 140px;}
+.space-150{height: 150px;}
+.space-135{height: 135px;}
